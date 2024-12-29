@@ -1,0 +1,46 @@
+# Ignore node_modules directory (for Node.js projects)
+node_modules/
+
+# Ignore build directories (for compiled code)
+dist/
+build/
+
+# Ignore dependency directories (for various languages)
+venv/
+.env/
+.DS_Store
+
+# Ignore logs
+*.log
+
+# Ignore IDE and editor settings
+.vscode/
+.idea/
+
+# Ignore operating system files
+Thumbs.db
+desktop.ini
+
+# Ignore compiled Python files
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore all zip and tarball files
+*.zip
+*.tar.gz
+*.tgz
+
+# Ignore Java and Android specific files
+*.class
+*.apk
+*.jar
+
+# Ignore MacOS specific files
+*.swp
+*.swo
+
+env
+.env
+scrape.py
+main.py
